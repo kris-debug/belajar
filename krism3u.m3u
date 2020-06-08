@@ -1,0 +1,239 @@
+#EXTM3U 
+#EXTINF: -1 tvg-id="TVRI.id" tvg-logo="https://i.imgur.com/b7DOpCH.png" group-title="Lokal", TVRI
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+#EXTINF: -1 tvg-id="NetTV.id" tvg-logo="https://i.imgur.com/RKcaIaZ.png" group-title="Lokal", NET TV
+https://cdnbpp1.useetv.com/joss/15/net/chunklist_w1761005650_b894100_sleng_310393.m3u8
+#EXTINF: -1 tvg-id="MNCTV.id" tvg-name="MNC TV" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="Lokal", MNC TV
+https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
+#EXTINF: -1 tvg-id="Indosiar.id" tvg-logo="https://i.imgur.com/bz3ox9M.png" group-title="Lokal", Indosiar
+http://203.153.218.28:9981/stream/channelid/261435212?ticket=
+#EXTINF: -1 tvg-name="GTV.id" tvg-logo="https://macan.live/img/gtv.png" group-title="Lokal", GTV
+http://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_2000000=1-mp4a_64000=2.m3u8
+#EXTINF: -1 tvg-id="TransTV.id" tvg-logo="https://i.imgur.com/2642q4E.png" group-title="Lokal", TransTV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1825142121_b280000_sleng.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="Lokal", TRANS7 HD
+http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/92MQcYP.png" group-title="Lokal", CITRA DRAMA
+https://dl.dropbox.com/s/iop2061487sr706/Flik.m3u8?dl=0
+#EXTINF: -1 tvg-id="ANTV.id" tvg-logo="https://i.imgur.com/KilYp0O.png" group-title="Lokal", ANTV
+https://vcdnjt.useetv.com/joss/15/antv/chunklist_w226638633_b894100_sleng_87965.m3u8
+#EXTINF: -1 tvg-name="RCTI.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="Lokal", RCTI
+https://linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_2000000=6-mp4a_64000=2.m3u8
+#EXTINF: -1 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/3iJmgDt.png" group-title="Lokal", SCTV HD
+https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w1027229960_b1344100_sleng_88719.m3u8
+#EXTINF: -1 tvg-id="RajawaliTV.id" tvg-logo="https://i.imgur.com/kLCs9AL.png" group-title="Lokal", RTV
+https://cdnkbl1.useetv.com/joss/14/rtv/chunklist_w1794295740_b684100_sleng_180671.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/HyCOcSE.png" group-title="Lokal", CNN
+https://live.cnnindonesia.com:443/livecnn/smil:cnntv.smil/chunklist_w1241960898_b192000_sleng.m3u8
+#EXTINF: -1 tvg-id="cnbc.id" tvg-logo="https://i.imgur.com/JmNMK4g.png" group-title="Lokal", CNBC Indonesia
+https://live.cnbcindonesia.com:443/livecnbc/smil:cnbctv.smil/chunklist_w290751272_b192000_sleng.m3u8
+#EXTINF: -1 tvg-id="MetroTV.id" tvg-logo="https://i.imgur.com/OIOvO9l.png" group-title="News", Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1130865367_b1492000_sleng.m3u8
+#EXTINF: -1 tvg-id="KompasTv.id" tvg-logo="https://i.imgur.com/Ta2xnFI.png" group-title="News", Kompas TV
+https://vcdnjt.useetv.com/joss/15/kompastv/chunklist_w1736125547_b894100_sleng_87965.m3u8
+#EXTINF: -1 tvg-id="TVOne.id" tvg-logo="https://i.imgur.com/kGlah4c.png" group-title="News", TV One
+https://stream-05.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybHGN8CjooQIwqoCd39Z5zYE)/dm/3/x619221/s/live-3.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ARhqwUf.png" group-title="News", Berita Satu
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
+#EXTINF: -1 tvg-id="Thrill.id" tvg-logo="https://i.imgur.com/mQI2gyp.png" group-title="Movie", Thrilll
+http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
+#EXTINF: -1 tvg-id="Thrill.id" tvg-logo="https://i.imgur.com/mQI2gyp.png" group-title="Movie", Thrilll
+http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/gEwtf1U.png" group-title="Movie", Flik
+https://vcdnjt.useetv.com:443/joss/15/flik/chunklist_w1315467241_b684100_sleng_177560.m3u8?enc=7a8bbpCJQ6mBgyNUWncrTg&exp=1587470989
+#EXTINF: -1 tvg-logo="https://i.imgur.com/S4tAfgm.png" group-title="Movie", Bioskop Indonesia
+https://vcdnjt.useetv.com:443/joss/14/bioskopindonesia/chunklist_w1569483238_b684100_sleng_177560.m3u8?enc=S5Y2zs3_7VlB__d4ogl3iA&exp=1587471747
+#EXTINF: -1 tvg-id="-" tvg-name="AXN" tvg-logo="https://i.imgur.com/rL3A58q.png" group-title="Movie", AXN
+https://vcdnjt.useetv.com:443/joss/15/axn/chunklist_w1332206438_b684100_sleng_177560.m3u8?enc=oKFj9Xw1YXcLgJJxFI-NrA&exp=1587470166
+#EXTINF: -1 tvg-id="-" tvg-name="Blue Ant Extreme" tvg-logo="https://i.imgur.com/5ar1p3z.png" group-title="Movie", Blue Ant Extreme
+http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EBE11ADE30E96AD4B5AFB52CC6F6840F981FD879&profile=pass
+#EXTINF: -1 tvg-logo="https://i.imgur.com/OXpzVta.png" group-title="Movie", HBO
+http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EBE11ADE30E96AD4B5AFB52CC6F6840F981FD879&profile=pass
+#EXTINF: -1 tvg-logo="https://i.imgur.com/OXpzVta.png" group-title="Movie", HBO
+https://tv4.chang55.com:446/live2/tv4ch25.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/EVtbkoY.png" group-title="Movie", HBO HITS
+http://203.153.218.28:9981/stream/channelid/2038175895
+#EXTINF: -1 tvg-logo="https://i.imgur.com/EVtbkoY.png" group-title="Movie", HBO HITS
+https://tv4.chang55.com:446/live2/tv4ch42.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/z9tnmx3.png" group-title="Movie", HBO FAMILY
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=
+#EXTINF: -1 tvg-logo="https://i.imgur.com/z9tnmx3.png" group-title="Movie", HBO FAMILY
+https://tv4.chang55.com:446/live2/tv4ch50.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/mdKKNkv.png" group-title="Movie", HBO SIGNATURE
+http://eyplay.io:80/K6DutU/u5Q0G7/283
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Oe5D7ve.png" group-title="Movie", FOX MOVIES
+http://203.153.218.28:9981/stream/channelid/756717990
+#EXTINF: -1 tvg-logo="https://i.imgur.com/1GGeizW.png" group-title="Movie", FOX FAMILY MOVIES
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=
+#EXTINF: -1 tvg-logo="https://i.imgur.com/IlDHGid.png" group-title="Movie", FOX ACTION MOVIES
+http://203.153.218.28:9981/stream/channelid/1744735983?ticket=
+#EXTINF: -1 tvg-logo="https://i.imgur.com/IlDHGid.png" group-title="Movie", FOX ACTION MOVIES
+https://www.livedoomovies.com/02_FoxActionHD_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/LMv2nyP.png" group-title="Entertainment", Blue Ant Entertaiment
+https://delivery.macan.live/stream/blue_ant_entertainment/index.m3u8?token=QR8cq&v=20200308
+#EXTINF: -1 tvg-id="eentertainment.id" tvg-logo="https://i.imgur.com/EY3Tald.png" group-title="Entertainment", E!
+http://ccreborn.one:8080/Rocketman4866/XYoAVr0AeV/138
+#EXTINF: -1 tvg-id="divahd.id" tvg-logo="https://i.imgur.com/pJ7Mp6u.png" group-title="Entertainment", Diva
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33839.m3u8
+#EXTINF: -1 tvg-id="Animax.id" tvg-logo="https://i.imgur.com/E0kaxBi.png" group-title="Kids", Animax
+http://ws.flv.nimo.tv/live/su1599512427562r89436fcde4d4278fc2e87c8600d465e1_high.flv
+#EXTINF: -1 tvg-id="disneyjunior.id" tvg-logo="https://i.imgur.com/ZXaRN1y.png" group-title="Kids", Disney Junior
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF: -1 tvg-id="disneychannel.id" tvg-logo="https://i.imgur.com/S6QDK34.png" group-title="Kids", Disney Channel
+http://203.153.218.28:9981/stream/channelid/31701170?ticket=
+#EXTINF: -1 tvg-logo="https://i.imgur.com/CfpXcOY.jpg" group-title="Kids", Larva
+http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/QDxws2R.png" group-title="Kids", Cartoon Network
+http://203.153.218.28:9981/stream/channelid/251475608?ticket=
+#EXTINF: -1 tvg-logo="https://i.imgur.com/D7ZFkA8.png" group-title="SPORTS", champion tv 1
+https://vcdnjt.useetv.com/joss/15/champion1/chunklist_w606951952_b1344100_sleng_54765.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/pzsE1MU.png" group-title="SPORTS", champion tv 2
+https://vcdnjt.useetv.com/joss/15/champion2/chunklist_w1199101916_b1344100_sleng_94615.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/IgZdyEL.png" group-title="SPORTS", USEE SPORT 1
+https://vcdnjt.useetv.com/joss/15/useesport/chunklist_w2117920137_b1344100_sleng_65786.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/kFrJnPk.png" group-title="SPORTS", USEE SPORT 2
+https://vcdnjt.useetv.com/joss/15/useesports2/chunklist_w1021856449_b1344100_sleng_87965.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/RD9bD3g.png" group-title="SPORTS", BEINSPORT 1
+https://edgejt6.useetv.com/joss/15/bein1/chunklist_w569980004_b684100_sleng_enc=s0kUt6Guh4KDF-wYLykbZg.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/dynmv10.png" group-title="SPORTS", BEINSPORT 2
+https://cdnbal1.useetv.com/joss/15/bein2/chunklist_w1901250353_b684100_sleng_enc=5cE0loIMo_OWpCpoD6CJEA.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/g6DZbxw.png" group-title="SPORTS", FOX SPORT 1
+https://vcdnjt.useetv.com:443/joss/15/foxsport1/chunklist_w778289513_b684100_sleng_177560.m3u8?enc=RZp4RrKSIXNxicaYY6fPTA&exp=1585292462&encp=vOXSyGKpZ9gytSWn62XF6A&expp=1585301162
+#EXTINF: -1 tvg-logo="https://i.imgur.com/SVwA9sx.png" group-title="SPORTS", FOX SPORT 2
+https://vcdnjt.useetv.com:443/joss/15/foxsport2/chunklist_w790481523_b684100_sleng_177560.m3u8?enc=5gkf76mgRhgfATyaSDHCoQ&exp=1585292570&encp=sKlDtjs9_zyjTnlRJ_y2xg&expp=1585301270
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Iz0Hslr.png" group-title="SPORTS", FOX SPORT 3
+https://vcdnjt.useetv.com:443/joss/15/foxsport3/chunklist_w1060961009_b684100_sleng_177560.m3u8?enc=2hIiDmbLnO9ik34eetLTmA&exp=1585292600&encp=iJ65wN8Fe6GtQazh5mtC3A&expp=1585301300
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ZYTk3oS.png" group-title="SPORTS", MOLA TV
+https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/05.m3u8
+#EXTINF: -1 group-title="Ungrouped", tvg-logo="https://i.imgur.com/txqLb1x.png" group-title="SPORTS" , Bein Sports HD 1
+http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/12.ts
+#EXTINF: -1 group-title="Ungrouped", tvg-logo="https://i.imgur.com/txqLb1x.png" group-title="SPORTS" , Bein Sports HD 2
+http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/18.ts
+#EXTINF: -1 group-title="Ungrouped", tvg-logo="https://i.imgur.com/txqLb1x.png" group-title="SPORTS" ,  Bein Sports HD 3
+http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/20.ts
+#EXTINF: -1 group-title="Ungrouped", tvg-logo="https://i.imgur.com/txqLb1x.png" group-title="SPORTS" ,  Bein Sports HD 4
+http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/22.ts
+#EXTINF: -1 group-title="Ungrouped", tvg-logo="https://i.imgur.com/txqLb1x.png" group-title="SPORTS" ,  Bein Sports HD 5
+http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/23.ts
+#EXTINF: -1 group-title="Ungrouped", tvg-logo="https://i.imgur.com/txqLb1x.png" group-title="SPORTS"  ,  Bein Sports HD 6
+http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/24.ts
+#EXTINF: -1 group-title="Ungrouped", tvg-logo="https://i.imgur.com/txqLb1x.png" group-title="SPORTS" ,   Bein Sports HD 7
+http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/25.ts
+#EXTINF: -1 group-title="Ungrouped", tvg-logo="https://i.imgur.com/txqLb1x.png" group-title="SPORTS"  ,  Bein Sports HD 8
+http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/26.ts
+#EXTINF: -1 group-title="Ungrouped", tvg-logo="https://i.imgur.com/txqLb1x.png" group-title="SPORTS" , Bein Sports HD 9
+http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/27.ts
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", AdultIPTV.net Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", AdultIPTV.net Anal
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", AdultIPTV.net Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", AdultIPTV.net Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", AdultIPTV.net Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", AdultIPTV.net Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", AdultIPTV.net Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", AdultIPTV.net Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", AdultIPTV.net Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", AdultIPTV.net Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", AdultIPTV.net Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", AdultIPTV.net Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", AdultIPTV.net Gay
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", AdultIPTV.net Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", AdultIPTV.net Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", AdultIPTV.net Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", AdultIPTV.net Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", AdultIPTV.net MILF
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", AdultIPTV.net Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", AdultIPTV.net POV
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", AdultIPTV.net Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", AdultIPTV.net Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", AdultIPTV.net Teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", AdultIPTV.net Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", Amazing TV
+http://204.45.182.172:26789/i/ghjnvq5o/8c85fsaf/index.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", AST TV 1
+https://www.ast.tv/stream/1/ultra.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", AST TV 2
+https://www.ast.tv/stream/2/ultra.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", Babestation24
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", HOT
+http://204.45.182.172:26789/i/ghjnvq5o/8c855d75/index.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", Korean Adult TV
+http://122.38.74.172:9981/stream/channelid/1463854277
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", Miami TV Jenny Live
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", Miami TV Latino
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", Midnight TV
+http://112.148.183.161:9981/stream/channelid/96001658
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", Pandora Pink HD
+http://204.45.182.172:26789/i/ghjnvq5o/8c85giea/index.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", Private TV HD
+http://188.35.9.5:10005/stolen/153a/imposter.rar
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", Privé TV
+http://08139e2f.ottv.info/iptv/S9824PT3RW2E72/877/index.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", Rainbow TV
+http://204.45.182.172:26789/i/ghjnvq5o/8c855daa/index.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", Super One HD
+http://188.35.9.5:10007/stolen/246r/parasite.install
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", Sōng shì 1
+http://204.45.182.172:26789/i/ghjnvq5o/8c855fdf/index.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", Sōng shì 2
+http://204.45.182.172:26789/i/ghjnvq5o/984fa1vb/index.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", Viki
+http://112.148.183.161:9981/stream/channelid/488704961
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", Visit-X TV
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", Vivid TV Europe
+http://188.35.9.26:2031/udp/031a
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", XCafe 1
+http://204.45.182.172:26789/i/ghjnvq5o/846a1ghm/index.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", XCafe 2
+http://204.45.182.172:26789/i/ghjnvq5o/1bf4a301/index.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", XCafe 3
+http://204.45.182.172:26789/i/ghjnvq5o/ahun18hg/index.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", XCafe 4
+http://204.45.182.172:26789/i/ghjnvq5o/84a15gbc/index.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", XCafe Anal
+http://204.45.182.172:26789/i/ghjnvq5o/952a3vvv/index.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", XCafe Asian
+http://204.45.182.172:26789/i/ghjnvq5o/456oinav/index.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", XCafe Blowjob
+http://204.45.182.172:26789/i/ghjnvq5o/91bnjred/index.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", XCafe Ebony
+http://204.45.182.172:26789/i/ghjnvq5o/8jainsbq/index.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", XCafe Erotic
+http://204.45.182.172:26789/i/ghjnvq5o/v19a2133/index.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", Zest TV
+http://188.35.9.5:10007/stolen/214g/parasite.install
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", NYX Media 1
+https://cdn1.ibizastream.biz:441/free/1/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", NYX Media 2
+https://cdn1.ibizastream.biz:441/free/2/playlist.m3u8
